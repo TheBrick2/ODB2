@@ -1,0 +1,5 @@
+1. Read codes
+2. reset alram / codes
+3. Look up codes.
+4. Log data.
+5. Dispaly live data.
